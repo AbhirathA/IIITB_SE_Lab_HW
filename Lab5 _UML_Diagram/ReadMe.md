@@ -4,6 +4,7 @@ This demo implements a small public library system in Java.
 It includes **Employees**, **Librarians**, **Customers**, **Books**, **Bookshelves**, and **Public Libraries**.
 
 The `Main.java` file demonstrates all functionality, ensuring each method is called at least once, with aligned separators for clarity.
+Also look at **ReadMe.txt** for more explainations regarding the code.
 
 ---
 
@@ -16,3 +17,4 @@ The `Main.java` file demonstrates all functionality, ensuring each method is cal
 
    ```bash
    javac *.java
+
